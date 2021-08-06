@@ -1,8 +1,8 @@
 # hackerton
 
 
-# brought from 
-# [data] https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data
+## brought from 
+### [data] <https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data>
 
-# refer to
-# [github]
+## refer to
+### [github]
